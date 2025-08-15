@@ -39,6 +39,3 @@ class Solution(object):
         if max_num:
             return str(max_num)
         return ""
-    
-# -----------------------------------------------------------------------
-# This is after looking at other solutions and LLMs to make my solution better for learning purposes
